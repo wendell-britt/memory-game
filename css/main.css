@@ -1,0 +1,49 @@
+.game {
+  border: solid #000000;
+  border-radius: 26px;
+  display: none;
+}
+
+.game-showing {
+  display: block;
+}
+
+/*.game-hidden {
+  display: none;
+}*/
+
+.jumbotron {
+  background-color: #000000;
+  color: #C4C4C4;
+  text-align: center;
+  margin: 18px;
+  border-radius: 26px;
+}
+
+.row {
+  /*border: solid #000000;*/
+}
+
+.col {
+  border: solid #000000;
+}
+
+.background-grey {
+  background-color: #C9C9C9;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  align: center;
+  padding: 20px;
+}
+
+.img-hidden{
+  display: none;
+
+}
+
+.img-show {
+
+}
